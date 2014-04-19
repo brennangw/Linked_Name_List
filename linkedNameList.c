@@ -1,9 +1,4 @@
-/*****************************************************************
- * Brennan Wallace                                               *
- * Box:  4775                                                    *
- * Supplemental Problem 5 for CSC 161                            *
- * Assignment for Tuesday, May 7                                 *
- *****************************************************************/
+/* A program shell  to maintain a linked list of names */
 
 /* ***************************************************************
  *
@@ -28,7 +23,7 @@
  *****************************************************************/
 
 
-/* A program shell  to maintain a linked list of names */
+
 
 /* library for standard I/O */
 #include <stdio.h>
